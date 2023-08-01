@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
